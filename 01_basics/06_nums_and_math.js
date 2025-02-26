@@ -11,10 +11,10 @@ const balance = new Number(100)
 const otherNumber = 123.8966
 
 // console.log(otherNumber.toPrecision(4));
+//this toPrecision is kinda confusing
 
 const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-IN'));
-
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
 
 // console.log(Math);
